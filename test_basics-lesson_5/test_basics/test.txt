@@ -1,0 +1,7 @@
+artem@sankt-peterburg:~/Загрузки/client_server_app-main/test_basics$ /bin/python3 /home/artem/Загрузки/client_server_app-main/test_basics/unitest_server_client.py
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.009s
+
+OK
+artem@sankt-peterburg:~/Загрузки/client_server_app-main/test_basics$ 
