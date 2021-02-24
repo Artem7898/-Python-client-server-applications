@@ -1,0 +1,17 @@
+2021-02-20T15:35:08.437396+0300 DEBUG handling_client_msg(dedug)!
+2021-02-20T15:35:08.438171+0300 INFO handling_client_msg(dedug)!
+2021-02-20T15:35:08.438577+0300 ERROR handling_client_msg(dedug)!
+2021-02-20T15:35:08.438954+0300 WARNING handling_client_msg(dedug)!
+2021-02-20T15:35:08.439324+0300 CRITICAL handling_client_msg(dedug)!
+2021-02-20T15:35:08.439816+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (5777), thread 'MainThread' (140024646465344):
+Traceback (most recent call last):
+
+> File "decorator_funServer.py", line 45, in <module>
+    main()
+    └ <function main at 0x7f5a06bd3940>
+
+  File "decorator_funServer.py", line 42, in main
+    handling_client_msg(1 / 0)
+    └ <function handling_client_msg at 0x7f5a06ee21f0>
+
+ZeroDivisionError: division by zero
