@@ -1,0 +1,115 @@
+2021-02-20T15:07:55.069850+0300 DEBUG get_addr_port(dedug)!
+2021-02-20T15:07:55.070450+0300 INFO get_addr_port(dedug)!
+2021-02-20T15:07:55.070766+0300 ERROR get_addr_port(dedug)!
+2021-02-20T15:07:55.071062+0300 DEBUG parse_configs(dedug)!
+2021-02-20T15:07:55.071354+0300 INFO parse_configs(dedug)!
+2021-02-20T15:07:55.071648+0300 ERROR parse_configs(dedug)!
+2021-02-20T15:07:55.071947+0300 DEBUG send_msg(dedug)!
+2021-02-20T15:07:55.072232+0300 INFO send_msg(dedug)!
+2021-02-20T15:07:55.072526+0300 ERROR send_msg(dedug)!
+2021-02-20T15:07:55.073021+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (4511), thread 'MainThread' (139847288121152):
+Traceback (most recent call last):
+
+> File "decorator_funClient.py", line 34, in <module>
+    main()
+    └ <function main at 0x7f30bb5ba940>
+
+  File "decorator_funClient.py", line 31, in main
+    parsing_server_msg(1 / 0)
+    └ <function parsing_server_msg at 0x7f30bb8c91f0>
+
+ZeroDivisionError: division by zero
+2021-02-20T15:32:08.893735+0300 DEBUG get_addr_port(dedug)!
+2021-02-20T15:32:08.894357+0300 INFO get_addr_port(dedug)!
+2021-02-20T15:32:08.894712+0300 ERROR get_addr_port(dedug)!
+2021-02-20T15:32:08.895070+0300 DEBUG parse_configs(dedug)!
+2021-02-20T15:32:08.895413+0300 INFO parse_configs(dedug)!
+2021-02-20T15:32:08.895769+0300 ERROR parse_configs(dedug)!
+2021-02-20T15:32:08.896120+0300 DEBUG send_msg(dedug)!
+2021-02-20T15:32:08.896477+0300 INFO send_msg(dedug)!
+2021-02-20T15:32:08.896820+0300 ERROR send_msg(dedug)!
+2021-02-20T15:32:08.897440+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (5536), thread 'MainThread' (140488532686656):
+Traceback (most recent call last):
+
+> File "decoratop_funServer.py", line 36, in <module>
+    main()
+    └ <function main at 0x7fc608833940>
+
+  File "decoratop_funServer.py", line 33, in main
+    handling_client_msg(1 / 0)
+    └ <function handling_client_msg at 0x7fc608b421f0>
+
+ZeroDivisionError: division by zero
+2021-02-20T15:33:06.679256+0300 DEBUG get_addr_port(dedug)!
+2021-02-20T15:33:06.679779+0300 INFO get_addr_port(dedug)!
+2021-02-20T15:33:06.680076+0300 ERROR get_addr_port(dedug)!
+2021-02-20T15:33:06.680334+0300 DEBUG parse_configs(dedug)!
+2021-02-20T15:33:06.680564+0300 INFO parse_configs(dedug)!
+2021-02-20T15:33:06.680844+0300 ERROR parse_configs(dedug)!
+2021-02-20T15:33:06.681143+0300 DEBUG send_msg(dedug)!
+2021-02-20T15:33:06.681423+0300 INFO send_msg(dedug)!
+2021-02-20T15:33:06.681706+0300 ERROR send_msg(dedug)!
+2021-02-20T15:33:06.689361+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (5657), thread 'MainThread' (140487692101440):
+Traceback (most recent call last):
+
+> File "decoratop_funServer.py", line 38, in <module>
+    main()
+    └ <function main at 0x7fc5d668e9d0>
+
+  File "decoratop_funServer.py", line 35, in main
+    handling_client_msg(1 / 0)
+    └ <function handling_client_msg at 0x7fc5d6839ca0>
+
+ZeroDivisionError: division by zero
+2021-02-20T15:34:11.166068+0300 DEBUG get_addr_port(dedug)!
+2021-02-20T15:34:11.166597+0300 INFO get_addr_port(dedug)!
+2021-02-20T15:34:11.166898+0300 ERROR get_addr_port(dedug)!
+2021-02-20T15:34:11.167172+0300 DEBUG parse_configs(dedug)!
+2021-02-20T15:34:11.167424+0300 INFO parse_configs(dedug)!
+2021-02-20T15:34:11.167692+0300 ERROR parse_configs(dedug)!
+2021-02-20T15:34:11.167972+0300 DEBUG send_msg(dedug)!
+2021-02-20T15:34:11.168258+0300 INFO send_msg(dedug)!
+2021-02-20T15:34:11.168543+0300 ERROR send_msg(dedug)!
+2021-02-20T15:34:11.176228+0300 DEBUG handling_client_msg(dedug)!
+2021-02-20T15:34:11.177128+0300 INFO handling_client_msg(dedug)!
+2021-02-20T15:34:11.177528+0300 ERROR handling_client_msg(dedug)!
+2021-02-20T15:34:11.177889+0300 WARNING handling_client_msg(dedug)!
+2021-02-20T15:34:11.178241+0300 CRITICAL handling_client_msg(dedug)!
+2021-02-20T15:34:11.178721+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (5729), thread 'MainThread' (140066504681280):
+Traceback (most recent call last):
+
+> File "decoratop_funServer.py", line 45, in <module>
+    main()
+    └ <function main at 0x7f63c5aee940>
+
+  File "decoratop_funServer.py", line 42, in main
+    handling_client_msg(1 / 0)
+    └ <function handling_client_msg at 0x7f63c5dfd1f0>
+
+ZeroDivisionError: division by zero
+2021-02-20T15:35:08.427861+0300 DEBUG get_addr_port(dedug)!
+2021-02-20T15:35:08.428377+0300 INFO get_addr_port(dedug)!
+2021-02-20T15:35:08.428671+0300 ERROR get_addr_port(dedug)!
+2021-02-20T15:35:08.428962+0300 DEBUG parse_configs(dedug)!
+2021-02-20T15:35:08.429291+0300 INFO parse_configs(dedug)!
+2021-02-20T15:35:08.429583+0300 ERROR parse_configs(dedug)!
+2021-02-20T15:35:08.429870+0300 DEBUG send_msg(dedug)!
+2021-02-20T15:35:08.430163+0300 INFO send_msg(dedug)!
+2021-02-20T15:35:08.430444+0300 ERROR send_msg(dedug)!
+2021-02-20T15:35:08.437396+0300 DEBUG handling_client_msg(dedug)!
+2021-02-20T15:35:08.438171+0300 INFO handling_client_msg(dedug)!
+2021-02-20T15:35:08.438577+0300 ERROR handling_client_msg(dedug)!
+2021-02-20T15:35:08.438954+0300 WARNING handling_client_msg(dedug)!
+2021-02-20T15:35:08.439324+0300 CRITICAL handling_client_msg(dedug)!
+2021-02-20T15:35:08.439816+0300 ERROR An error has been caught in function '<module>', process 'MainProcess' (5777), thread 'MainThread' (140024646465344):
+Traceback (most recent call last):
+
+> File "decorator_funServer.py", line 45, in <module>
+    main()
+    └ <function main at 0x7f5a06bd3940>
+
+  File "decorator_funServer.py", line 42, in main
+    handling_client_msg(1 / 0)
+    └ <function handling_client_msg at 0x7f5a06ee21f0>
+
+ZeroDivisionError: division by zero
