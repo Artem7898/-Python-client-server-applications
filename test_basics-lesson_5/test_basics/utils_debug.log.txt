@@ -1,0 +1,33 @@
+2021-02-16T15:11:06.877253+0300 DEBUG get_addr_port(dedug)!
+2021-02-16T15:11:06.896286+0300 INFO get_addr_port(dedug)!
+2021-02-16T15:11:06.896753+0300 ERROR get_addr_port(dedug)!
+2021-02-16T15:11:06.897049+0300 DEBUG parse_configs(dedug)!
+2021-02-16T15:11:06.897342+0300 INFO parse_configs(dedug)!
+2021-02-16T15:11:06.897627+0300 ERROR parse_configs(dedug)!
+2021-02-16T15:11:06.897913+0300 DEBUG send_msg(dedug)!
+2021-02-16T15:11:06.898219+0300 INFO send_msg(dedug)!
+2021-02-16T15:11:06.898545+0300 ERROR send_msg(dedug)!
+2021-02-16T15:11:06.905018+0300 DEBUG def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.905986+0300 INFO def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.906414+0300 ERROR def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.906786+0300 WARNING def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.907142+0300 CRITICAL def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.907497+0300 DEBUG presence_msg(dedug)!
+2021-02-16T15:11:06.907858+0300 INFO presence_msg(dedug)!
+2021-02-16T15:11:06.908218+0300 ERROR presence_msg(dedug)!
+2021-02-16T15:11:06.908576+0300 WARNING presence_msg(dedug)!
+2021-02-16T15:11:06.908930+0300 CRITICAL presence_msg(dedug)!
+2021-02-16T15:11:18.055184+0300 DEBUG get_addr_port(dedug)!
+2021-02-16T15:11:18.055688+0300 INFO get_addr_port(dedug)!
+2021-02-16T15:11:18.055911+0300 ERROR get_addr_port(dedug)!
+2021-02-16T15:11:18.056172+0300 DEBUG parse_configs(dedug)!
+2021-02-16T15:11:18.056403+0300 INFO parse_configs(dedug)!
+2021-02-16T15:11:18.056690+0300 ERROR parse_configs(dedug)!
+2021-02-16T15:11:18.056967+0300 DEBUG send_msg(dedug)!
+2021-02-16T15:11:18.057268+0300 INFO send_msg(dedug)!
+2021-02-16T15:11:18.057562+0300 ERROR send_msg(dedug)!
+2021-02-16T15:11:18.065248+0300 DEBUG handling_client_msg(dedug)!
+2021-02-16T15:11:18.066137+0300 INFO handling_client_msg(dedug)!
+2021-02-16T15:11:18.066549+0300 ERROR handling_client_msg(dedug)!
+2021-02-16T15:11:18.066888+0300 WARNING handling_client_msg(dedug)!
+2021-02-16T15:11:18.067227+0300 CRITICAL handling_client_msg(dedug)!

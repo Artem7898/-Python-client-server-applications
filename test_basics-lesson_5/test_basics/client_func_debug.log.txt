@@ -1,0 +1,10 @@
+2021-02-16T15:11:06.905018+0300 DEBUG def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.905986+0300 INFO def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.906414+0300 ERROR def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.906786+0300 WARNING def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.907142+0300 CRITICAL def parsing_server_msg(dedug)!
+2021-02-16T15:11:06.907497+0300 DEBUG presence_msg(dedug)!
+2021-02-16T15:11:06.907858+0300 INFO presence_msg(dedug)!
+2021-02-16T15:11:06.908218+0300 ERROR presence_msg(dedug)!
+2021-02-16T15:11:06.908576+0300 WARNING presence_msg(dedug)!
+2021-02-16T15:11:06.908930+0300 CRITICAL presence_msg(dedug)!
